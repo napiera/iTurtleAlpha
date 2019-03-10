@@ -7,14 +7,14 @@
 
 
 ## Contributors
-최규남 / robertchoi / Leader
-크리스천 / christian / Designer / christian.piponides@gmail.com
-김진성 / Soft programmer / jinny42@hanmail.net
-설윤호 / 단국대 기계 Hardware / syh9594@gmail.com
-변규영 / Hardware / ceo@steammaker.co.kr
-성규현 / Soft programmer / hyunskyu@gmail.com
-정강빈 / Hardware / bigdefence@naver.com
-김세진 / Online programmer / monami2005@naver.com
+- 최규남 / robertchoi / Leader
+- 크리스천 / christian / Designer / christian.piponides@gmail.com
+- 김진성 / Soft programmer / jinny42@hanmail.net
+- 설윤호 / 단국대 기계 Hardware / syh9594@gmail.com
+- 변규영 / Hardware / ceo@steammaker.co.kr
+- 성규현 / Soft programmer / hyunskyu@gmail.com
+- 정강빈 / Hardware / bigdefence@naver.com
+- 김세진 / Online programmer / monami2005@naver.com
 
 
 ## Contributing, feedback, contact
