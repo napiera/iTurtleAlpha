@@ -1,5 +1,7 @@
 ## iTurtleAlpha
 2019년도 서울해커톤 참여 프로젝트
+![ex_screenshot](./img/Seoul_Hardware_Hackathon.jpg)
+
 
 
 ## OverView
