@@ -16,7 +16,7 @@
 - 변규영 / Hardware / ceo@steammaker.co.kr
 - 성규현 / Soft programmer / hyunskyu@gmail.com
 - 정강빈 / Hardware / bigdefence@naver.com
-- 김세진 / Online programmer / dev.napier@naver.com
+- 김세진 / Online programmer / dev.napier@gmail.com
 
 
 ## Contributing, feedback, contact
